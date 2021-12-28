@@ -1,8 +1,15 @@
-# projeto_Senac_Precisa
+# Projeto Final Senac - Precisa
 
-Projeto Integrador elaborado e estruturado pela turma dc curso Desenvolvimento Web Back-End, na Instituição SENAC-PE, sob orientação da professora Tereza Oliveira. 
+<center><Logotipo com o nome Precisa> <img src="./Projeto Precisa - LOGO.png" alt="Logotipo projetoPrecisa"></center>
+  
+ 
+  
+ 
+-----------------------
 
-O projeto PRECISA, é um site que permite encontrar instituições próximas que recebam doações e direciona a pessoas de vulnerabilidade social e econômica. A CRUD (requisições do back-end) tem 3 tipos de cadastro (SCHEMA), permitindo a conexão de ...
+O projeto Precisa foi elaborado e estruturado pela turma do curso Desenvolvimento Web Back-End, na Instituição SENAC-PE, sob orientação da professora Tereza Oliveira. 
+
+O site foi desenvolvido com o intuito de ser uma força, um instrumento para promover redução da desigualdade social, e da pobreza no país, agravada ainda mais pelo cenário de pandemia em que vivemos. O PRECISA, é um site que permite que o usuário (doador) encontrar instituições próximas que recebam doações e direciona a pessoas de vulnerabilidade social e econômica. A CRUD (requisições do back-end) tem 3 tipos de cadastro (SCHEMA), permitindo a conexão de ...
 
 => Quem pode doar (Doadores)
 => Quem pode entregar (Instituições)
